@@ -1,2 +1,2 @@
-# 300exerciciospython
+# 300 exercicios em python
  
