@@ -1,0 +1,1 @@
+nome = str(input('Insira um nome qualquer: '))

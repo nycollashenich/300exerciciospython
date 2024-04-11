@@ -1,2 +1,1 @@
-# 300 exercicios em python
- 
+# 300ex.py
